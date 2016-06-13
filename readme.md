@@ -1,7 +1,7 @@
-# TEST - EMPLOYEES DIRECTORY #
+# TEST - EMPLOYEES DIRECTORY - AGULAR.JS #
 
-. Review the code of this application
-. Criticize this application
+. Review the code of this application<br/>
+. Criticize this application<br/>
 . Present an improved version of this application (without adding or removing any feature or external library)
 
 What has been done
