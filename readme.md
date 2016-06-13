@@ -5,7 +5,7 @@
 . Present an improved version of this application (without adding or removing any feature or external library)
 
 What has been done
-----
+------------------
 . Code indentation<br/>
 . Generic HTML improvements<br/>
 . CSS2LESS<br/>
@@ -15,7 +15,7 @@ What has been done
 Note
 ----
 This is a technical test.<br/>
-TIME: 60 minutes.<br/>
+TIME: 60 minutes (100 minutes at all on Angular.js so far).<br/>
 http://test-employees-directory-angular.123beta.net/<br/>
 Uid: test123<br/>
 Psw: test123
