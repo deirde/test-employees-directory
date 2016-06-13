@@ -16,6 +16,6 @@ Note
 ----
 This is a technical test.<br/>
 TIME: 60 minutes.<br/>
-http://test-employees-directory.123beta.net/<br/>
+http://test-employees-directory-angular.123beta.net/<br/>
 Uid: test123<br/>
 Psw: test123
