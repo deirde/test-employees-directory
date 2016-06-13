@@ -6,11 +6,11 @@
 
 What has been done
 ----
-. Code indentation.<br/>
-. Generic HTML improvements.<br/>
-. CSS => LESS.<br/>
-. Funtionality "reports" completed.<br/>
-. JSON data altered and function "getEmployeeCount" created.<br/>
+. Code indentation<br/>
+. Generic HTML improvements<br/>
+. CSS2LESS<br/>
+. Funtionality "reports" completed<br/>
+. JSON data altered and function "getEmployeeCount" created<br/>
 
 Note
 ----
